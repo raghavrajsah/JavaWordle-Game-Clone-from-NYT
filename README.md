@@ -3,6 +3,42 @@
 ## Overview
 JWordle is a Java-based implementation of the popular word game Wordle. This project involves creating a functional game with a graphical user interface (GUI) that closely mimics the original web-based Wordle game. The implementation focuses on enhancing understanding of Java syntax and reinforcing programmatic design principles.
 
+
+### How to Play Java Wordle Game
+
+1. **Clone the Repository**
+
+   First, clone the repository to your local machine. Open your terminal and run:
+
+   ```sh
+   git clone git@github.com:raghavrajsah/JavaWordle-Game-Clone-from-NYT.git
+   ```
+
+2. **Navigate to the Project Directory**
+
+   Change into the project directory:
+
+   ```sh
+   cd JavaWordle-Game-Clone-from-NYT
+   ```
+
+3. **Compile the Code**
+
+   Compile the Java source files. Ensure you are in the directory containing the `src` folder:
+
+   ```sh
+   javac JWordleLauncher.java
+   ```
+
+4. **Run the Game**
+
+   Run the game and enjoy:
+
+   ```sh
+   java JWordleLauncher
+   ```
+
+
 ## Basic Rules
 The core gameplay involves the following rules:
 - Players have six attempts to guess a randomly chosen five-letter word.
